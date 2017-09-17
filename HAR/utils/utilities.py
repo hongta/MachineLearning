@@ -15,7 +15,7 @@ def read_data(data_path, split = "train"):
 
 	# Paths
 	path_ = os.path.join(data_path, split)
-	path_signals = os.path.join(path_, "Inertial_Signals")
+	path_signals = os.path.join(path_, "Inertial Signals")
 
 	# Read labels and one-hot encode
 	label_path = os.path.join(path_, "y_" + split + ".txt")
