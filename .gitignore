@@ -37,5 +37,5 @@ config.rst
 /.pydevproject
 **/dataset/*
 !**/dataset/README
-!**/dataset/README.MD
-!**/dataset/.gitkeep
+**/model/*
+!.gitkeep
