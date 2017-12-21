@@ -38,4 +38,5 @@ config.rst
 **/dataset/*
 !**/dataset/README
 **/model/*
+pytorch/data/*
 !.gitkeep
