@@ -40,3 +40,5 @@ config.rst
 **/model/*
 pytorch/data/*
 !.gitkeep
+tmp
+checkpoints
